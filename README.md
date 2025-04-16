@@ -1,5 +1,6 @@
 # toms-comp
 my technology hierarchy
+
 |language| Description | ran on | analogous to |
 | - | - | - | - |
 | brick | assembly language | hardware | x64, ARM |
