@@ -9,6 +9,6 @@ my technology hierarchy
 | hexknight| modern language | castle,tower| Python | 
 | polyknight | drawing library | castle,tower | p5.js or openGL (WIP) | 
 
-##tech tree
+## tech tree
 
 ![alt text](tech_tree.png)
