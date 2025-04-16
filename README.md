@@ -8,3 +8,7 @@ my technology hierarchy
 | castle | modern language | tower | C |
 | hexknight| modern language | castle,tower| Python | 
 | polyknight | drawing library | castle,tower | p5.js or openGL (WIP) | 
+
+##tech tree
+
+![alt text](tech_tree.png)
