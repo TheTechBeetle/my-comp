@@ -1,5 +1,7 @@
 # my-comp
 
+[my mega wiki](https://github.com/TheTechBeetle/my-comp/wiki/overgearhome)
+
 my technology hierarchy
 
 |language| Description | ran on | analogous to |
