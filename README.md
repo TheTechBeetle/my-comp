@@ -1,7 +1,5 @@
 # my-comp
 
-[web link](https://thetechbeetle.github.io/my-comp/)
-
 my technology hierarchy
 
 |language| Description | ran on | analogous to |
