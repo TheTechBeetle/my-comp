@@ -1,4 +1,4 @@
-# toms-comp
+# my-comp
 
 [web link](https://thetechbeetle.github.io/my-comp/)
 
