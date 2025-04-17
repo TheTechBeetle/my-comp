@@ -11,7 +11,7 @@ my technology hierarchy
 | [towerbrick](towerbrick.md) | array handling library | [tower](tower.md)| C++ |
 | [castle](castle.md) | modern language | [tower](tower.md) and [towerbrick](towerbrick.md) | C |
 | [hexknight](hexknight.md)| modern language | [castle](castle.md),[tower](tower.md)| Python | 
-| [polyknight](polyknight.md) | drawing library | [castle](castle.md),[tower](tower.md) | p5.js, turtle or openGL (WIP) | 
+| [polyknight](polyknight.md) | drawing library | [castle](castle.md),[tower](tower.md),[hexknight](hexknight.md) | p5.js, turtle or openGL (WIP) | 
 
 *you can see the theme*
 
