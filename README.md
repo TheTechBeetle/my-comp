@@ -1,4 +1,7 @@
 # toms-comp
+
+[web link](https://thetechbeetle.github.io/toms-comp/)
+
 my technology hierarchy
 
 |language| Description | ran on | analogous to |
