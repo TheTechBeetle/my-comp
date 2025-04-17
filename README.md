@@ -1,6 +1,6 @@
 # toms-comp
 
-[web link](https://thetechbeetle.github.io/toms-comp/)
+[web link](https://thetechbeetle.github.io/my-comp/)
 
 my technology hierarchy
 
