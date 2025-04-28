@@ -25,6 +25,7 @@ tower is a [stack based language](stacklanguage.md)
 comment /comment\
 
 ## Examples
+This is a worked example to show how pushr works
 ```
 /pushr explanation\
 set(5)   /stack top set to 5\
@@ -37,3 +38,19 @@ pushr(0) /stack top set to contents of RR0\
 /stack top is 2\
 /hi\
 ```
+At the start of the program, the stack is empty.
+The stack pointer = 1.
+The stack pointer itself is stored at location 0.
+
+```
+set(5)
+```
+Stack Pointer = 2
+|Address|Contents|
+|0|5|
+
+```
+pop(0)
+```
+Stack Pointer = 1
+|Address|Contents|
