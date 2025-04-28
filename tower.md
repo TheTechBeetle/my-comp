@@ -1,22 +1,23 @@
 # tower
 tower is a [stack based language](stacklanguage.md)
-## instructions
 
-|number|instructons|Description|
+## Instruction Set
+
+|Number|Instructons|Description|
 |-|-|-|
-|0|pop(adress)||
-|1|push(adress)||
-|2|jump(adress)||
+|0|pop(address)||
+|1|push(address)||
+|2|jump(address)||
 |3|>||
 |4|<||
 |5|=||
 |6|=>||
 |7|<=||
 |8|!=||
-|9|popr(adress)||
-|A|push(adress)||
+|9|popr(address)||
+|A|push(address)||
 |B|set(constant)||
 |C|add||
 |D|sub)||
-|E|jumpr(adress)||
+|E|jumpr(address)||
 |F|label(LABEL)||
