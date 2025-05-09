@@ -1,6 +1,6 @@
 # my-comp
 
-[my mega wiki](https://github.com/TheTechBeetle/my-comp/wiki/overgearhome)
+[my mega wiki](https://github.com/TheTechBeetle/my-comp/wiki/overgearhome.wiki)
 
 my technology hierarchy
 
