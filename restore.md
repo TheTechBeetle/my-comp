@@ -79,3 +79,36 @@ KOKO _moves off_
 
 LOVESTUFFY:no
 
+### _cuts to:_
+
+_the cave is completely dark now,the pair have stopped_
+
+LOVESTUFFY:no better
+
+KOKO:i think we are lost
+
+LOVESTUFFY:i thought so a couple years ago
+
+KOKO:good
+
+TOASTY:hello there
+
+KOKO _and_ LOVESTUFFY _both jump_
+
+KOKO:hello?
+
+TOASTY:hi
+
+TOASTY:i'm toasty
+
+TOASTY:a toaster
+
+LOVESTUFFY:a.talking.toaster?
+
+TOASTY:yup
+
+KOKO:good,you know the way out?
+
+LOVESTUFFY:we dont
+
+TOASTY:yup
