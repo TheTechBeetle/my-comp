@@ -158,4 +158,43 @@ KOKO:and water?
 TOASTY:my cave
 
 _they go back to the caves_
+## 6.set.toastcave
+TOASTY _and_ LOVESTUFFY _arive at_ TOASTY'S _cave_
 
+_theres a hollow in the side just the size for toasty with_ "toastys home" _written above on a sign_
+
+TOASTY _picks up a piece of bread and starts toasting_
+
+LOVESTUFFY:koko?
+
+KOKO _is examining the walls at the entrance_
+
+KOKO:these walls
+
+TOASTY:yes?
+
+KOKO:why are they here?
+
+TOASTY:you mean they aren't normal?
+
+KOKO:no
+
+TOASTY:doesn't matter
+
+TOASTYS _toast pops_
+
+KOKO:show me the water
+
+TOASTY:ok
+
+TOASTY _wheels over into his hollow_
+
+_theres a ping and_ TOASTY _comes out,his slots filled with water_
+
+LOVESTUFFY:great
+
+LOVESTUFFY _leans over toasty_
+
+TOASTY _pings the water strait into_ LOVESTUFFYS _mouth_
+
+LOVESTUFFY:cool
