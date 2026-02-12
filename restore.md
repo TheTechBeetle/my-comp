@@ -237,3 +237,20 @@ KOKO:in the morning
 
 LOVESTUFFY:ok
 ## 8.set.tip
+KOKO _has a trailer of heavy stuff_
+
+LOVESTUFFY _has his_ "max load"
+
+KOKO:could.you.carry.more?
+
+LOVESTUFFY:no i am already at max
+
+KOKO:one marshmallow?
+
+LOVESTUFFY:yes
+
+KOKO:now?
+
+LOVESTUFFY:ok but just one more marshmallow
+
+_they reach the top_
