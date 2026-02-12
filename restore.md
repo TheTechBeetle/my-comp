@@ -198,3 +198,42 @@ LOVESTUFFY _leans over toasty_
 TOASTY _pings the water strait into_ LOVESTUFFYS _mouth_
 
 LOVESTUFFY:cool
+## 7.set.tent
+LOVESTUFFY _is eating marshmallows_
+
+KOKO:LOVESTUFFY shouldn't you stop now?
+
+LOVESTUFFY:and waste my time packing a industral silo of them?
+
+KOKO:yes
+
+LOVESTUFFY:no
+
+KOKO:so what are we going to do now then
+
+LOVESTUFFY:keep eating marshmallows
+
+KOKO:i was talking about the city and UFO
+
+LOVESTUFFY:so was i
+
+TOASTY:i think we should move to higher ground
+
+KOKO:good idea
+
+LOVESTUFFY:and we can bring my marshmallows
+
+KOKO:water and food
+
+LOVESTUFFY:marshmallows
+
+LOVESTUFFY _heads for the tent exit_
+
+KOKO:where are you going?
+
+LOVESTUFFY:to pack up
+
+KOKO:in the morning
+
+LOVESTUFFY:ok
+## 8.set.tip
