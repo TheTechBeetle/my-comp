@@ -79,7 +79,7 @@ KOKO _moves off_
 
 LOVESTUFFY:no
 
-### _cuts to:_
+### 4.set.darkercave
 
 _the cave is completely dark now,the pair have stopped_
 
@@ -112,3 +112,50 @@ KOKO:good,you know the way out?
 LOVESTUFFY:we dont
 
 TOASTY:yup
+## 5.set.cavexit
+TOASTY _is leading_ KOKO _and_ LOVESTUFFY _down the cave_
+
+_they turn a corner and see light_
+
+KOKO:finaly
+
+LOVESTUFFY:yes!
+
+_an earthquake happens_
+
+TOASTY:what was that?
+
+LOVESTUFFY:ME.HUNGRY
+
+KOKO:have.you.guys.seen
+
+LOVESTUFFY:seen what
+
+KOKO _points over at the city_
+
+_the city is in ruins, on fire and theres a UFO hovering around_
+
+LOVESTUFFYS _jaw drops_
+
+LOVESTUFFY:AAAAAAAAA!!!
+
+TOASTY:whats it suposed to look like?
+
+LOVESTUFFY _shows him a picture_
+
+TOASTY:AAAAAAAAA!!!
+
+LOVESTUFFY:so, what do we do now?
+
+KOKO:go back to the caves and camp out
+
+LOVESTUFFY:i have LOVESTUFFY sleeping bags and a tent
+
+TOASTY:my cave has bread for walls
+
+KOKO:and water?
+
+TOASTY:my cave
+
+_they go back to the caves_
+
